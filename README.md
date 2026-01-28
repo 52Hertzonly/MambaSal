@@ -83,14 +83,4 @@ Please stay tuned for the official release.
 
 ---
 
-## 📌 Citation
 
-If you find this work useful, please cite our paper (to be updated upon publication):
-
-```bibtex
-@article{guo2026mambasal,
-  title={MambaSal: A Bio-Inspired Mamba-Driven Network for Visual Saliency Prediction},
-  author={Guo, Xingge and others},
-  journal={Neural Networks},
-  year={2026}
-}
